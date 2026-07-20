@@ -19,7 +19,7 @@ export const portfolioData = {
     },
     bio: "Third-year Computer Science Engineering student at KL University specializing in Artificial Intelligence, Generative AI, Full Stack Development, and Data Structures & Algorithms. Open-source contributor through GirlScript Summer of Code with industry experience in Prompt Engineering and Software Development internships. Passionate about building intelligent real-world systems using LLMs, cloud technologies, and modern web frameworks.",
     stats: [
-      { label: "CGPA", value: "9.64/10" },
+      { label: "CGPA", value: "9.67/10" },
       { label: "Internships", value: "3+" },
       { label: "Certifications", value: "3+" },
       { label: "Major Projects", value: "3+" },
